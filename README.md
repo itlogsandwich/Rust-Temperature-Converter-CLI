@@ -1,2 +1,2 @@
-# rust_temperature_converter_cli
+# Rust yeeee
 Simple temperature converter in Rust CLI
